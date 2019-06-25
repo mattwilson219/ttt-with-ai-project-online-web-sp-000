@@ -12,6 +12,6 @@ module Players
       computer_move = @valid_moves[rand(@valid_moves.length)]
     end
 end
-end 
+end
 
  
